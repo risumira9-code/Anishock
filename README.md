@@ -1,2 +1,2 @@
 # Anishock
-anime website
+website
